@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612790858950",
+    "project_id": "deals-on-wheels-ef298",
+    "storage_bucket": "deals-on-wheels-ef298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612790858950:android:ff9d8cf4883b61eaded3c7",
+        "android_client_info": {
+          "package_name": "com.teamvoid.dealsonwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612790858950-7iuo8rj008du4vjldfjdgvef4iu7li1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDci8XtDFNjpyGpiXjrfmm8xQDprUAAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612790858950-7iuo8rj008du4vjldfjdgvef4iu7li1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
